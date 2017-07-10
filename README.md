@@ -2,7 +2,7 @@
 
 ### About 
 
-This project is study record about *Kotlinlang's* offical document.
+This project is a study record about Kotlinlang's official document.
 
 The document's page is here:http://kotlinlang.org/docs/reference/
 
